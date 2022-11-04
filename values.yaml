@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: ghcr.io/dhenne/spring-boot-service
+  repository: ghcr.io/romanigk/spring-boot-service
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
